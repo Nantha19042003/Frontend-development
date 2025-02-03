@@ -1,0 +1,162 @@
+   nav
+   {
+     background-color: black;
+     color: aliceblue;
+     
+
+
+
+   }
+  
+
+  h1,ul,li {
+    
+
+    display: inline;
+    padding: 40px;
+     font-weight: bold ;
+    
+
+  }
+    
+  li:hover
+  {
+    color: red
+  
+
+  }
+
+  marquee {
+    background-color: rgb(0, 255, 8);
+    color: black;
+    background-blend-mode: hard-light;
+    font-size: larger;
+    
+  }
+
+
+  a {
+
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    
+      }
+
+
+      
+      .p1{
+
+        
+        display: inline-block;
+        padding: 100px;
+      }
+      .p2 {
+
+
+        
+        display: inline-block;
+        padding: 100px;
+      }
+
+      .p3 {
+
+        
+        display:inline-block;
+       padding: 100px;
+        
+      }
+
+      .l1{
+
+
+        display: inline-block;
+        padding: 100px;
+
+        
+      }
+      .l2 {
+
+
+
+        display: inline-block;
+        padding: 100px;
+      }
+
+      .l3 {
+
+        
+        display:inline-block;
+        padding: 100px;
+        
+      }
+
+      .t1{
+        display: inline-block;
+        padding: 100px;
+
+        
+      }
+      .t2 {
+
+
+
+        display: inline-block;
+        padding: 100px;
+      }
+
+      .t3 {
+
+        
+        display:inline-block;
+        padding: 100px;
+        
+      }
+
+.intro {
+
+  font-size: 28px;
+}
+
+.mar {
+
+  padding: 2px;
+  font-size: 20px;
+  
+
+}
+
+ {
+background-color: lightblue;
+color: black;
+}
+
+.intro{
+
+  color: black;
+  h
+}
+.footer{
+
+
+  background-color: blue
+  color:black
+}
+*{
+
+
+  background-color: lightblue;
+}
+
+
+.con{
+
+  display:flex;
+  
+  align-items: center;
+   justify-content: center;
+   justify-items: center;
+ 
+ height: 30vh
+
+}
